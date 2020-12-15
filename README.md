@@ -9,12 +9,16 @@ Magento 2 GDPR Free helps companies present more clearly and transparently to cu
 With Magento 2 GDPR Free, customers can optionally control personal data through the privacy policy, cookie, consent checkbox. Thereby, the company can collect information under the permission of customers, comply with GDPR regulations.
 ### Customers can manually delete accounts on Magento using the GDPR extension
 Customers can access and change account settings at any time to update information on the website. At the same time, the GDPR extension allows customers to easily delete their own accounts without having to contact the store owner.
+   ![Image of magento store front](https://github.com/magepow/magento2-gdpr/blob/master/media/magento2-gdpr-delete-eccount.png)
 ### Supports cookies
 When a customer visits a website, a cookie window pops up allowing the customer to choose whether or not the website will collect access information. Cookies help improve the customer experience on the site better. However, in some cases, customers do not want to save their browser history, they may not allow them by disabling the cookies window.
+   ![Image of magento store front](https://github.com/magepow/magento2-gdpr/blob/master/media/magento2-gdpr-cookies.png)
 ### Privacy and contact policy
 GDPR extension allows customers to access privacy policy through the cookies window. Through these policies, the company can explain to customers what types of information the website collects, how to collect it, and how the website stores and protects the collected information. Users can contact the website owner if there is a policy problem.
 ### Agree checkbox
 The consent check box appears when a customer makes an account login or creates a new account on your website. Magento GDPR requires customers to click on the checkbox upon registration, which helps the website gather the consent of the customer to legalize the process of processing customer data. Similar to cookies, website owners can also easily customize how the checkbox is displayed accordingly.
+   ![Image of magento store front](https://github.com/magepow/magento2-gdpr/blob/master/media/magento2-gdpr-checkbox-login.png)
+   ![Image of magento store front](https://github.com/magepow/magento2-gdpr/blob/master/media/magento2-gdpr-checkbox-create-new-account.png)
 ### More features
 Enable/disable and customize the content of the cookies window and checkboxes
 Easy to configure admin panel, customer-friendly interface
